@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ssssss@Iammercurial
+- 👋 Hi, I’m Seun Abiodun by name
 - 👀 I’m interested in ...Web and Mobile Development
 - 🌱 I’m currently learning ...Web and Mobile Development
 - 🥁 I’m looking to collaborate on ...Buiding Digital Solutions for businesses
