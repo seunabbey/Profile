@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web and Mobile Development
 - 🌱 I’m currently learning ...Web and Mobile Development
 - 🥁 I’m looking to collaborate on ...Buiding Digital Solutions for businesses
-- 📫 How to reach me ...via my email: proudlynigerian45@gmail.com or call my number +2348133486944
+- 📫 How to reach me ...via my email: oluwaseunabiodun100@gmail.com
 
 <!---
 Iammercurial/Iammercurial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
